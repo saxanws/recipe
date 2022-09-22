@@ -23,3 +23,7 @@ This is a recipe app that use an api to search for recipes. This app was made ba
 ### Recipe details (Ingrdients)
 
 ![Screen Shot 2022-09-22 at 4 17 11 PM](https://user-images.githubusercontent.com/17714218/191861551-6777fe5b-6b25-4223-abbf-00c94a9d9478.png)
+
+
+## Technology
+For this app i use **React**, **HTML**, **JavaScript**, **CSS**.
