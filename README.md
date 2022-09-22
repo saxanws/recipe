@@ -1,7 +1,7 @@
 # Recipe
 
 ## Description
-This is a recipe app that use an api to search for recipes. This app was made base of a tutorial to learn how to use external apis. When we search for recipe it shows list of recipes and when you click on one of them, it shows the details for that specific recipe. The recipe detail show the instruction and also the ingredients that goes in it.
+This is a recipe app that use an api to search for recipes. This app was made base of a tutorial to learn how to use external apis and to import and use various Google Font. When we search for recipe it shows list of recipes and when you click on one of them, it shows the details for that specific recipe. The recipe detail show the instruction and also the ingredients that goes in it.
 
 ## Screens
 
